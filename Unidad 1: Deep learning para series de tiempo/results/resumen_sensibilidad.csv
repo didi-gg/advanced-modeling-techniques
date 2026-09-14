@@ -1,0 +1,5 @@
+experimento,variante,RMSE_test
+Ventana/horizonte,A: 24h->1h,20.47
+Ventana/horizonte,B: 48h->6h,60.37
+Hiperparámetro (hidden_size),64 unidades,20.47
+Hiperparámetro (hidden_size),32 unidades,20.56

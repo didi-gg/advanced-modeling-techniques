@@ -1,0 +1,5 @@
+configuracion,modelo,RMSE,MAE
+A_24h_a_1h,Naïve simple,22.88,11.45
+A_24h_a_1h,LSTM,20.47,10.6
+B_48h_a_6h,Naïve simple,66.14,38.5
+B_48h_a_6h,LSTM,60.37,35.56
