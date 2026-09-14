@@ -1,0 +1,13 @@
+configuracion,conjunto,linea_base,RMSE,MAE,n_ejemplos
+A_24h_a_1h,train,naive_simple,20.42,10.65,315360
+A_24h_a_1h,train,naive_estacional,87.88,58.6,315360
+A_24h_a_1h,val,naive_simple,15.25,8.8,52704
+A_24h_a_1h,val,naive_estacional,66.01,44.52,52704
+A_24h_a_1h,test,naive_simple,22.88,11.45,51840
+A_24h_a_1h,test,naive_estacional,105.22,71.36,51840
+B_48h_a_6h,train,naive_simple,55.38,33.04,315012
+B_48h_a_6h,train,naive_estacional,87.91,58.63,315012
+B_48h_a_6h,val,naive_simple,40.76,25.45,52356
+B_48h_a_6h,val,naive_estacional,66.01,44.45,52356
+B_48h_a_6h,test,naive_simple,66.14,38.5,51492
+B_48h_a_6h,test,naive_estacional,105.57,71.8,51492
