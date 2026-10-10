@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "device": "mps",
+  "imgsz": 640,
+  "confidence_evaluation": 0.001,
+  "confidence_visualization": 0.25,
+  "nms_iou": 0.7,
+  "max_detections": 300,
+  "models": [
+    "yolo11n.pt",
+    "yolo11s.pt"
+  ]
+}
