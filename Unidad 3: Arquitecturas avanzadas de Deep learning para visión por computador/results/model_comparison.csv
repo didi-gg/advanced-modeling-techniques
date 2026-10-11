@@ -1,0 +1,3 @@
+configuration,val_loss,val_accuracy,trainable_parameters
+Frozen backbone,0.4423921418030109,0.8556665518429211,5130
+Fine-tuning,0.1374143038815746,0.9572855666551843,8398858
