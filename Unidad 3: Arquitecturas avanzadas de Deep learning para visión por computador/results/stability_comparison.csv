@@ -1,0 +1,3 @@
+Arquitectura,FPS promedio,Desviación estándar,FPS mínimo
+Síncrono,29.066666666666666,0.6046897696456622,25.6
+Concurrente,25.942372881355926,3.1887844073397744,23.0

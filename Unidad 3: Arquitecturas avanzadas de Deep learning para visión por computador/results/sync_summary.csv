@@ -1,0 +1,2 @@
+mode,processed_frames,display_updates,processing_fps,display_update_fps,latency_mean_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,inference_mean_ms,inference_p95_ms,capture_mean_ms,preprocess_mean_ms,render_mean_ms,cpu_mean_percent,memory_peak_mb,hand_detection_rate
+sync,8721,2349,29.07,7.83,20.389743040587952,19.458416998531902,22.59208299801685,37.3736003995873,19.852848674924267,21.83195799807436,13.885326968912594,0.1977355303211166,0.3192165214931799,66.80136054421769,501.046875,0.9915147345487902
